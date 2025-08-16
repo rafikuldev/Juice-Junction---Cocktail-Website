@@ -16,7 +16,7 @@
 
 <br>
 
-## 🔗 [Demo](https://rafikuldev.github.io/portfollio-designer/)
+## 🔗 [Demo](https://juice-junction.netlify.app/)
 
 # Hi, I'm Rafikul! 👋
 
